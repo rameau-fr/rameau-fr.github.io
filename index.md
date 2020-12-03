@@ -19,7 +19,9 @@ Research interests:
 <br>
 
 News:
-* Our Book chapter on Deep-learning based 3D vision will be published soon!
+* Two AAAI 2021 papers accepted thanks to the wonderful work a Dawit Mureja
+* One WACV 2021 accepted
+* Our Book chapter on Deep-learning based 3D vision has been published!
 * One CVPR 2020 (Oral) paper acceptance, Congratulations to Fei for his hard word on domain adaptation
 * One ICRA 2020 accepted on RGB-D Slam
 
