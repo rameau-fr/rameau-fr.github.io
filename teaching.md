@@ -7,7 +7,7 @@ description: Here is the list of my lectures (The pdf version of the slides are 
 
 
 
-* "Perception for autononous and connected vehicles" (PD803 - KAIST - Fall Semester 2019) <span style="color:blue">Best Teaching Award from the Department of Future Vehicle </span>:
+* "Perception for autononous and connected vehicles" (PD803 - KAIST - Since 2019) <span style="color:blue">Best Teaching Award from the Department of Future Vehicle </span>:
 	* Lecture 1: Introduction
 	* Lecture 2: ICP
 	* Lecture 3: Cameras Geometry
