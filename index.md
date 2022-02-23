@@ -12,13 +12,18 @@ I received my Master degree in Vision and Robotics ([VIBOT](https://www.vibot.or
 
 Research interests:
 * 3D reconstruction
-* cooperative robotics
-* Machine-learning
+* Deep learning
+* cooperative computer vision
 * Omnidirectional vision
 
 <br>
 
 News:
+* One paper accepted to ICLR 2022
+* Our calibration toolbox MC-Calib has been published in CVIU
+* One paper published in IJCV
+* Two ICCV 2021 papers accepted
+* One paper accepted to ICRA 2021
 * Two AAAI 2021 papers accepted thanks to the wonderful work a Dawit Mureja
 * One WACV 2021 accepted
 * Our Book chapter on Deep-learning based 3D vision has been published!
