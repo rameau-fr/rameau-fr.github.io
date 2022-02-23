@@ -13,7 +13,7 @@ I received my Master degree in Vision and Robotics ([VIBOT](https://www.vibot.or
 Research interests:
 * 3D reconstruction
 * Deep learning
-* cooperative computer vision
+* cooperative robotics
 * Omnidirectional vision
 
 <br>
