@@ -10,14 +10,17 @@ description: Here is the list of my lectures (The pdf version of the slides are 
 * "Perception for autononous and connected vehicles" (PD803 - KAIST - Fall Semester 2019) <span style="color:blue">Best Teaching Award from the Department of Future Vehicle </span>:
 	* Lecture 1: Introduction
 	* Lecture 2: ICP
-	* Lecture 3/4: Cameras 
-	* Lecture 5/6: Keypoints detection, description & matching
-	* Lecture 7/8: Epipolar Geometry
-	* Lecture 9/10: Triangulation & RANSAC
-	* Lecture 11: Stereo Vision
-	* Lecture 12: Visual Odometry
-	* Lecture 13: Object Recognition
-	* Lecture 14: Connected vehicles
+	* Lecture 3: Cameras Geometry
+	* Lecture 4: Keypoints detection, description & matching
+	* Lecture 5: Deep learning-based matching
+	* Lecture 6: Epipolar Geometry
+	* Lecture 7: Triangulation & RANSAC
+	* Lecture 8: Stereo Vision
+	* Lecture 9: Deep Stereo Vision & multi-view reconstruction
+	* Lecture 10: Visual Odometry
+	* Lecture 10: Visual localization
+	* Lecture 11: Semantic segmentation
+	* Lecture 12: Connected vehicles
 
 <br/>
 * "Numerical Analysis" (Fall Semester 2014, International bachelor in Computer Vision, Université de Bourgogne) <span style="color:blue">I was also module coordinator of “Computer Aided Design”</span>: 
