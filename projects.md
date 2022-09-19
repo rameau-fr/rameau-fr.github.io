@@ -155,7 +155,7 @@ With the growing use of head-mounted displays for virtualreality (VR), generatin
 
 ---
 <br>
-### Domain adaptation
+### Others: Domain adaptation, NERF, 3D point cloud processing and much more
 ----
 
 
