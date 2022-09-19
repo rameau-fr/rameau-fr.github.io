@@ -38,7 +38,7 @@ comments: false
 <div class="post-container">
     <div class="post-content">
         <h3 class="post-title"> Smart city</h3>
-        <p> I develloped novel solutions for semi-automatic CCTV camera calibration and 3D vehicle detection/tracking/geo-localization in the context of smart city.The paper is currently under review but you are welcome to check the caloibration toolbox I develloped CCTV-Calib <a href="https://github.com/rameau-fr/CCTV-Calib">[CCTV-Calib]</a> and the video results obtained for 3D vehicle localization from our domain adaption strategy <a href="https://www.youtube.com/watch?v=KcbXZZcCmag">[Video-1]</a> <a href="https://www.youtube.com/watch?v=24Iw_wvUmjE&t=193s">[Video-2]</a>
+        <p> I develloped novel solutions for semi-automatic CCTV camera calibration and 3D vehicle detection/tracking/geo-localization in the context of smart city.The paper is currently under review but you are welcome to check the calibration toolbox I develloped <a href="https://github.com/rameau-fr/CCTV-Calib">[CCTV-Calib]</a> and the video results obtained for 3D vehicle localization from our domain adaption strategy <a href="https://www.youtube.com/watch?v=KcbXZZcCmag">[Video-1]</a> <a href="https://www.youtube.com/watch?v=24Iw_wvUmjE&t=193s">[Video-2]</a>
 </p></div>
 <div class="post-thumb"><img src="/images/3D_vehicles.png" /></div>
 </div>
