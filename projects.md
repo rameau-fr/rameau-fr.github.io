@@ -40,7 +40,7 @@ comments: false
         <h3 class="post-title"> Smart city</h3>
         <p> I develloped novel solutions for semi-automatic CCTV camera calibration and 3D vehicle detection/tracking/geo-localization in the context of smart city.The paper is currently under review but you are welcome to check the caloibration toolbox I develloped CCTV-Calib <a href="https://github.com/rameau-fr/CCTV-Calib">[CCTV-Calib]</a> and the video results obtained for 3D vehicle localization from our domain adaption strategy <a href="https://www.youtube.com/watch?v=KcbXZZcCmag">[Video-1]</a> <a href="https://www.youtube.com/watch?v=24Iw_wvUmjE&t=193s">[Video-2]</a>
 </p></div>
-<div class="post-thumb"><img src="3D_vehicles.png" /></div>
+<div class="post-thumb"><img src="/images/3D_vehicles.png" /></div>
 </div>
 
 
@@ -55,6 +55,7 @@ comments: false
 <h3 class="post-title">Multi-camera calibration</h3>
         <p> In this paper, we present MC-Calib, a novel and robust toolbox dedicated to the calibration of complex synchronized multi-camera systems using an arbitrary number of fiducial marker-based patterns. Calibration results are obtained via successive stages of refinement to reliably estimate both the poses of the calibration boards and cameras in the system. Our method is not constrained by the number of cameras, their overlapping field-of-view (FoV), or the number of calibration patterns used. Moreover, neither prior information about the camera system nor the positions of the checkerboards are required. As a result, minimal user interaction is needed to achieve an accurate and robust calibration which makes this toolbox accessible even with limited computer vision expertise. In this work, we put a strong emphasis on the versatility and the robustness of our technique. Specifically, the hierarchical nature of our strategy allows to reliably calibrate complex vision systems even under the presence of noisy measurements. Additionally, we propose a new strategy for best-suited image selection and initial parameters estimation dedicated to non-overlapping FoV cameras. Finally, our calibration toolbox is compatible with both, perspective and fisheye cameras. Our solution has been validated on a large number of real and synthetic sequences including monocular, stereo, multiple overlapping cameras, non-overlapping cameras, and converging camera systems. <a href="https://github.com/rameau-fr/MC-Calib">[Project]</a>.
 </p></div>
+<div class="post-thumb"><img src="/images/illustration-MCCalib.png" /></div>
 </div>
 
 <div class="post-container">
