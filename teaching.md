@@ -5,7 +5,7 @@ title: teaching
 description: Here is the list of my lectures (The pdf version of the slides are lacking many animations!)
 ---
 
-* "Computer Science Principle" (CSE101 - SUNY Korea - Since 2019)
+* "Computer Science Principle" (CSE101 - SUNY Korea - Since 2023)
 
 * "Perception for autononous and connected vehicles" (PD803 - KAIST - 2019 to 2021) <span style="color:blue">Best Teaching Award from the Department of Future Vehicle </span>:
 	* Lecture 1: Introduction
