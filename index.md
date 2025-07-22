@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://frameau.xyz">
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>If you are not redirected, <a href="https://frameau.xyz">click here</a>.</p>
+  </body>
+</html>
+
 ---
 layout: home2
 title: Welcome!
