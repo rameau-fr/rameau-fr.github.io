@@ -6,7 +6,7 @@
     <title>Redirecting...</title>
   </head>
   <body>
-    <p>This website is no longer maintained. If you are not redirected automatically, <a href="https://frameau.xyz">click here</a>.</p>
+    <p>This website is no longer maintained. If you are not redirected, <a href="https://frameau.xyz">click here</a>.</p>
   </body>
 </html>
 
