@@ -6,10 +6,11 @@
     <title>Redirecting...</title>
   </head>
   <body>
-    <p>This website is not maintained anymore! If you are not redirected, <a href="https://frameau.xyz">click here</a>.</p>
+    <p>This website is no longer maintained. If you are not redirected automatically, <a href="https://frameau.xyz">click here</a>.</p>
   </body>
 </html>
 
+<!--
 ---
 layout: home2
 title: Welcome!
@@ -50,7 +51,7 @@ News:
 * Our Book chapter on Deep-learning based 3D vision has been published!
 * One CVPR 2020 (Oral) paper acceptance, Congratulations to Fei for his hard word on domain adaptation
 * One ICRA 2020 accepted on RGB-D Slam
-
+--!>
 
 
 
